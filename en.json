@@ -160,10 +160,10 @@
       "title": "Tools",
       "link1": "API",
       "link2": "Affiliate Program",
-      "link3": "Mobile App",
+      "link3": "Mobile App"
     },
     "column4": {
-      "title": "Contact",
+      "title": "Contact"
     }
   },
   "country": {
@@ -943,7 +943,7 @@
         "49": "LibrexCoin",
         "50": "Credit/Debit cards (EUR)",
         "51": "QIWI(Automatic)",
-        "53": "Ethereum",
+        "53": "Ethereum"
     },
     "cashOut": {
         "1": "Webmoney",
@@ -973,7 +973,6 @@
         "32": "Credit/Debit Cards (Russia, CIS)",
         "33": "Yandex.Money",
         "34": "Ethereum"
-
     },
     "tip": {
         "country": "Incorrect country",
@@ -1054,7 +1053,7 @@
     "inn": "INN",
     "card_number": "Card number",
     "check_on_blockchain": "Check transaction on blockexplorer.com",
-    "check_on_localaccount": "Coins have been successfully credited to your Indacoin wallet",
+    "check_on_localaccount": "Coins have been successfully credited to your Indacoin wallet"
 },
   "exchangerStatuses": {
     "TimeOut": "Order timeout",
