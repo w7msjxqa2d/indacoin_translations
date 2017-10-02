@@ -1069,5 +1069,17 @@
     "Declined": "Declined",
     "cardDeclinedNoFull3ds": "Declined, because your bank doesn't support full 3ds (only Attempted) option on this card, please contact your bank customer service.",
     "cardDeclined": "Your card was declined, if you have questions, please contact Indacoin support support@indacoin.com"
+  },
+  "change": {
+    "CreatingOrder": "Creating Order",
+    "CreatingOrderDescription": "",
+    "PaymentInfo": "Payment Info",
+    "PaymentInfoDescription": "",
+    "ContactInfo": "Contact Info",
+    "ContactInfoDescription": "",
+    "Verification": "Verification",
+    "VerificationDescription": "",
+    "OrdersInfo": "Orders Info",
+    "OrdersInfoDescription": ""
   }
 }
